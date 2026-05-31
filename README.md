@@ -1,7 +1,6 @@
 MyCareerAI is a web application designed to assist users in optimizing their resumes and matching them with suitable job descriptions using AI.
 
 ## Table of Contents
-- [Screenshots](#screenshots-)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
@@ -15,9 +14,6 @@ MyCareerAI is a web application designed to assist users in optimizing their res
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-
-## Screenshots 📸
-
 
 ## Features ✨
 *   **User Authentication:** Secure signup and login functionality using Firebase Authentication.
