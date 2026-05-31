@@ -232,13 +232,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 5.  Open a Pull Request.
 
 Please ensure your code adheres to the existing style and that any new features are well-tested.
-
-## License 📄
-This project is licensed under the MIT License. See the `LICENSE` file for details (if one is created, otherwise assume MIT).
-
-## Contact 📧
-For questions or support, please reach out to [sushilpatel5113@gmail.com](mailto:sushilpatel5113@gmail.com).
-
 ---
 
-Made with ❤️ by @sushil930.
+Made with ❤️ by Snigdha.
